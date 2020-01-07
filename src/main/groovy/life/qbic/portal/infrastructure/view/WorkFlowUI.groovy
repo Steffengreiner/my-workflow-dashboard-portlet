@@ -100,10 +100,10 @@ class WorkflowUI extends UI {
     }
 
     // Vaadin Specific Servlet Stuff
-
+/*
     @WebServlet(urlPatterns = "/*", name = "WorkflowUIServlet", asyncSupported = true)
     @VaadinServletConfiguration(ui = WorkflowUI, productionMode = false)
     static class WorkflowUIServlet extends VaadinServlet {
 
-    }
+    } */
 }

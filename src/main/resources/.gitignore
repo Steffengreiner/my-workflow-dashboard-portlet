@@ -1,1 +1,5 @@
 developer.properties
+# Intellij
+.idea/
+*.iml
+*.iws
