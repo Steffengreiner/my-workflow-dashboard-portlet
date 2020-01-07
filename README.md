@@ -6,6 +6,7 @@ Workflow Dashboard, version 1.0.0-SNAPSHOT - Vaadin Liferay portlet to display i
 
 ## Author
 Created by Tobias Koch (tobias.koch@qbic.uni-tuebingen.de).
+
 Modified by Steffen Greiner(Steffen.Greiner@qbic.uni-tuebingen.de
 ## Description
 
