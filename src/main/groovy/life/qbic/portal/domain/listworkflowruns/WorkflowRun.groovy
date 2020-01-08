@@ -12,6 +12,7 @@ class WorkflowRun {
     int runningCount;
     int completedCount;
     int failedCount;
+
     {
         this.runName = runName;
         this.runningTaskName = runningTaskName;
@@ -22,4 +23,5 @@ class WorkflowRun {
         this.completedCount = completedCount;
         this.failedCount = failedCount;
     }
+
 }

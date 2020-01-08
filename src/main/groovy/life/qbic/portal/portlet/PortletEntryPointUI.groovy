@@ -56,7 +56,6 @@ class PortletEntryPointUI extends QBiCPortletUI {
             // After all components are initialized
             this.portletMainView = new PortletMainView()
 
-
         }
 
         def getView() {
