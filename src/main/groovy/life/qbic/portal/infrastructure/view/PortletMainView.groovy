@@ -22,7 +22,6 @@ class PortletMainView extends VerticalLayout implements WorkflowRunInfoListViewM
 
     }
 
-
     private createContent() {
 
         TextField labelField = new TextField()

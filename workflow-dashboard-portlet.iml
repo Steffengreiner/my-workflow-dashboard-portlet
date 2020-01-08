@@ -72,6 +72,12 @@
     <orderEntry type="library" name="Maven: life.qbic.openbis:stream-supporting-httpinvoker:13.04.8" level="project" />
     <orderEntry type="library" name="Maven: org.databene:contiperf:2.3.4" level="project" />
     <orderEntry type="library" name="Maven: org.mariadb.jdbc:mariadb-java-client:2.0.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.guava:guava:25.1-android" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.checkerframework:checker-compat-qual:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />
+    <orderEntry type="library" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
     <orderEntry type="library" name="Maven: com.vaadin:vaadin-server:8.9.2" level="project" />
     <orderEntry type="library" name="Maven: com.vaadin:vaadin-sass-compiler:0.9.13" level="project" />
     <orderEntry type="library" name="Maven: org.w3c.css:sac:1.3" level="project" />
@@ -109,12 +115,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-mockito2:2.0.0-beta.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.powermock:powermock-api-support:2.0.0-beta.5" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.google.truth:truth:0.40" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.google.guava:guava:23.4-android" level="project" />
-    <orderEntry type="library" name="Maven: com.google.code.findbugs:jsr305:1.3.9" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.google.j2objc:j2objc-annotations:1.1" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.codehaus.mojo:animal-sniffer-annotations:1.14" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.googlecode.java-diff-utils:diffutils:1.3.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.google.errorprone:error_prone_annotations:2.1.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.stefanbirkner:system-rules:1.17.2" level="project" />
   </component>
 </module>

@@ -1,4 +1,6 @@
 life/qbic/portal/infrastructure/view/workflowruninfolist/WorkflowRunListGrid.class
+life/qbic/portal/domain/listworkflowruns/Person.class
 life/qbic/portal/infrastructure/view/workflowruninfolist/WorkflowRunInfoListView.class
 life/qbic/portal/infrastructure/services/workflowtracking/WorkflowRunService.class
 life/qbic/portal/infrastructure/view/PortletMainView.class
+life/qbic/portal/infrastructure/view/WorkflowUI.class
